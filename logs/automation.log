@@ -1,0 +1,32 @@
+16:33:33.277 [main] INFO  testCases.TC002_LoginTest {36} - Started the TC002_LoginTest class
+16:33:35.101 [main] INFO  testCases.TC002_LoginTest {36} - Finished the TC002_LoginTest class
+16:38:10.135 [main] INFO  testCases.TC002_LoginTest {36} - Started the TC002_LoginTest class
+16:38:12.370 [main] INFO  testCases.TC002_LoginTest {36} - Finished the TC002_LoginTest class
+16:38:41.583 [main] INFO  testCases.TC002_LoginTest {36} - Started the TC002_LoginTest class
+16:38:44.003 [main] INFO  testCases.TC002_LoginTest {36} - Finished the TC002_LoginTest class
+16:54:14.568 [main] INFO  testCases.TC002_LoginTest {36} - Started the TC002_LoginTest class
+16:54:16.601 [main] INFO  testCases.TC002_LoginTest {36} - Finished the TC002_LoginTest class
+16:58:39.268 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - clicked on my account
+16:58:40.746 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - set privacy policy test
+16:58:41.794 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - click button continue
+16:58:41.850 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - validating expected msg
+16:58:42.157 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - Finished account Registration Test ......
+16:59:33.123 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - clicked on my account
+16:59:34.793 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - set privacy policy test
+16:59:35.714 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - click button continue
+16:59:35.808 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - validating expected msg
+16:59:36.117 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - Finished account Registration Test ......
+17:14:17.978 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - clicked on my account
+17:14:19.728 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - set privacy policy test
+17:14:20.594 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - click button continue
+17:14:20.655 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - validating expected msg
+17:14:20.919 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - Finished account Registration Test ......
+18:06:51.044 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - clicked on my account
+18:06:52.743 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - set privacy policy test
+18:06:53.545 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - click button continue
+18:06:53.590 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - validating expected msg
+18:06:53.861 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - Finished account Registration Test ......
+18:08:22.408 [main] INFO  testCases.TC002_LoginTest {36} - Started the TC002_LoginTest class
+18:08:24.318 [main] INFO  testCases.TC002_LoginTest {36} - Finished the TC002_LoginTest class
+18:15:19.814 [main] INFO  testCases.TC002_LoginTest {36} - Started the TC002_LoginTest class
+18:15:21.962 [main] INFO  testCases.TC002_LoginTest {36} - Finished the TC002_LoginTest class
