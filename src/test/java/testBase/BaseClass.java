@@ -150,6 +150,10 @@ public class BaseClass {
 		return generatedNum;
 	}
 
+System.out.println("new commit");	System.out.println("new commit");	System.out.println("new commit");	System.out.println("new commit");
+			System.out.println("new commit");
+			System.out.println("new commit");
+
 	public String captureScreen(String tname) throws IOException {
 
 		String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
