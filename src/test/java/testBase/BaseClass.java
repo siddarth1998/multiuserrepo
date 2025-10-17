@@ -41,7 +41,22 @@ public class BaseClass {
 		FileReader file = new FileReader("./src//test//resources//config.properties");
 		p = new Properties();
 
+
 		logger = LogManager.getLogger(this.getClass()); // log4j2
+
+		p.load(file);
+
+		logger = LogManager.getLogger(this.getClass()); // log4j2
+		System.out.println("No matching os1");
+		System.out.println("No matching os2");
+		System.out.println("No matching os3");
+		System.out.println("No matching os2");
+		System.out.println("No matching os2");
+		System.out.println("No matching os2");
+		System.out.println("No matching os3");
+		System.out.println("No matching os2");
+		System.out.println("No matching os2");
+
 
 		// remote
 		if (p.getProperty("execution_env").equalsIgnoreCase("remote")) {
@@ -59,10 +74,14 @@ public class BaseClass {
 				System.out.println("No matching os");
 				return;
 			}
+<<<<<<< HEAD
 			System.out.println("new commit");
 			System.out.println("new commit");
 			System.out.println("new commit");
 			System.out.println("new commit");
+=======
+
+>>>>>>> 9d3564430ed584fb13877e6ed5f4a4c1a182714b
 			// browser
 			switch (br.toLowerCase()) {
 			case "chrome":
